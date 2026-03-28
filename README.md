@@ -123,6 +123,9 @@ http://localhost:8080/EmployeePayrollSystem/
 
 * Add Employee Form
   <img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/bb087cd8-8372-4203-b648-b7bfb4cdd6ac" />
+* Pay Slip
+  <img width="1872" height="889" alt="image" src="https://github.com/user-attachments/assets/5e431872-cf4d-47f0-b047-6e910bb1b216" />
+
 
 
 ---
