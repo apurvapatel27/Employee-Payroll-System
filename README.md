@@ -118,11 +118,18 @@ http://localhost:8080/EmployeePayrollSystem/
 
 ## 📸 Screenshots
 
+* Authentication Page Admin
+  <img width="616" height="809" alt="Screenshot 2026-03-28 142115" src="https://github.com/user-attachments/assets/fc999f47-4557-4238-8069-9becade5dc4b" />
+  
+* Authentication Page Employee
+  <img width="833" height="881" alt="image" src="https://github.com/user-attachments/assets/5d616a40-d61b-4425-8641-3344fa9c9c68" />
+
 * Home Page
  <img width="1889" height="899" alt="image" src="https://github.com/user-attachments/assets/104fc5a4-76f2-4673-9577-2c36a0e5773a" />
 
 * Add Employee Form
   <img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/bb087cd8-8372-4203-b648-b7bfb4cdd6ac" />
+  
 * Pay Slip
   <img width="1872" height="889" alt="image" src="https://github.com/user-attachments/assets/5e431872-cf4d-47f0-b047-6e910bb1b216" />
 
