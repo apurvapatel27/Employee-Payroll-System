@@ -139,8 +139,8 @@ http://localhost:8080/EmployeePayrollSystem/
 
 ## 👨‍💻 Author
 
-**Apoorv Patel**
-Java Web Developer (Beginner → Future FAANG 🚀)
+**Apurva Patel**
+AI Engineer
 
 ---
 
