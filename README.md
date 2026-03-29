@@ -149,7 +149,7 @@ http://localhost:8080/EmployeePayrollSystem/
 
 ## 👨‍💻 Author
 
-**Apurva Patel**
+**// Employee Payroll System - Portfolio Project by Apurva Patel**
 AI Engineer
 
 ---
